@@ -16,8 +16,8 @@ char PULSADOR[50];
 char SALIDADIGITAL[50];
 char SALIDAANALOGICA[50];
 
-const char *ssid     = "mathphys";
-const char *password = "neomx2001";
+const char *ssid     = "altavista";
+const char *password = "29702587";
 char   SERVER[50]    = "3.81.179.172";
 int    SERVERPORT    = 16594;
 String USERNAME      = "jamaica";   
